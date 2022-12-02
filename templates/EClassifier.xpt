@@ -1,0 +1,3 @@
+«DEFINE E FOR ecore::EClassifier»
+«FILE name + ".java"»«ENDFILE»
+«ENDDEFINE»
