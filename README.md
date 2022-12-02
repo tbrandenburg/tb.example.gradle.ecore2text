@@ -1,6 +1,6 @@
-# UML2 + gradle
+# Ecore + gradle
 
- This sample project is reading an UML model and generating the same with Eclipse EMF's xPand
+ This sample project is reading an ECore model and generating the same with Eclipse EMF's xPand
  using gradle and MWE2 for build and workflow.
 
 ## Usage
